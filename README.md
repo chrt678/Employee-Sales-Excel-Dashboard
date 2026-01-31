@@ -134,7 +134,7 @@
 
 | Field | Details |
 |----|--------|
-| Name | Rahul Singh |
+| Name | Rahul Kumar|
 | Role | Aspiring Data Analyst |
 | Skills | Excel, Power BI, SQL |
 | Focus | Sales & Business Analytics |
