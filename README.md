@@ -93,7 +93,7 @@
 
 | View | Image |
 |----|------|
-| Employee Sales Overview | ![Overview](dashboard.png) |
+| Employee Sales Overview | ![Overview](Dashboard.png) |
 
 
 ---
